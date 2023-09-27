@@ -1,1 +1,1 @@
-README file for git project
+Updated README.md file for git project
